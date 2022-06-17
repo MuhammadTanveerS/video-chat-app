@@ -1,4 +1,4 @@
-# Realtime Chat Application
+# Realtime Video Chat Application
 
 ![Video Chat](https://i.ibb.co/W54rfg6/Screenshot-2.png)
 
