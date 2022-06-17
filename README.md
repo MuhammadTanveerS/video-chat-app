@@ -1,6 +1,6 @@
 # Realtime Chat Application
 
-![Video Chat]([https://ibb.co/DWHBQ5t](https://i.ibb.co/W54rfg6/Screenshot-2.png))
+![Video Chat](https://i.ibb.co/W54rfg6/Screenshot-2.png)
 
 ## Introduction
 A Video chatting app.
